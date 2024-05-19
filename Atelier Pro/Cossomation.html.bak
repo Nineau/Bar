@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Conssomations </title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+		<link rel="stylesheet"href="style.css">
+		
+	</head>
+	<body>
+		<h1>
+		<div id="conso">
+			<center>Conssomations</center></h1>
+		</div>
+		<nav>
+				<ul>
+					<li><a href="file:///W:/Atelier%20Pro/code%20bar%20a%20th%C3%A8me.html"> Menue</a></li>
+					<li><a href="file:///W:/Atelier%20Pro/Cossomation.html#"> Notre cartes</a></li>
+					<li><a href="file:///W:/Atelier%20Pro/Histoire%20du%20bar.html"> Nôtre Quizz</a></li>
+				</ul>
+			</nav>
+			<center>
+		<table class="table-style">
+		<caption><h2>Information Conssomations</h2></caption>
+		<br>
+		<br>
+		<div class="container">
+		<table class="table table-dark">
+		<thead>
+			<tr>
+				<th> Boissons chaudes </td>
+				<th> Boissons froides </th>
+				<th> Jus </th>
+				<th> Alcool </th>
+			</tr>
+			<br>
+			
+		</thead>
+		<tbody>
+			<tr>
+				<td> - Café </td>
+				<td> - Coca zéro </td>
+				<td> - Jus de pomme </td>
+				<td> - whysky</td>
+			</tr>
+			<tr>
+				<td> - Café gourmand</td>
+				<td> - Pespsi </td>
+				<td> - Jus de poire </td>
+				<td> - Bière </td>
+			</tr>
+			<tr>
+				<td> - Café Americain </td>
+				<td> - Pespsi max </td>
+				<td> - Jus de fruit </td>
+				<td> - Bière Artisanale blonde </td>
+			</tr>
+			<tr>
+				<td> - Cappucino </td>
+				<td> - Ice tea </td>
+				<td> - Jus de fruit du dragon </td>
+				<td> - Bière Artisanale brune </td>
+			</tr>
+			<tr>
+				<td> - Chocolat Chaud </td>
+				<td> - Sprite </td>
+				<td> - Jus de mangue </td>
+				<td> - Bière Brune </td>
+			</tr>
+			<tr>
+				<td> -Vin Chaud </td>
+				<td> - Oasis </td>
+				<td> - Jus d'orange </td>
+				<td> - Bière Blonde </td>
+			</tr>
+			<tr>
+				<td> - Cidre chaud </td>
+				<td> - Orangina </td>
+				<td> - Jus de citron </td>
+				<td> - Vin </td>
+			</tr>
+		</tbody>
+	</table>
+	</center>
+		<br>
+		<br>
+		
+			
+	
+		
+	
+	

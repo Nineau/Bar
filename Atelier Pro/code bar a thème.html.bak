@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Bar Galactica</title>
+		<link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+		<link rel="stylesheet" href="style.css">
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<div class="row">
+		<center>
+		<h1><center><span>G</span>alactica</center></h1>
+		<center><img src="logobarPetit.png"></center>
+		<nav>
+				<ul>
+					<li><a href="file:///W:/Atelier%20Pro/code%20bar%20a%20th%C3%A8me.html"> Menue</a></li>
+					<li><a href="file:///W:/Atelier%20Pro/Cossomation.html"> Notre cartes</a></li>
+					<li><a href="file:///W:/Atelier%20Pro/Inscription%20formulaire.html"> Nôtre Quizz</a></li>
+				</ul>
+			</nav>
+			<br>
+			<br>
+			<div class="container">
+				<h3>Horraires :</h3>
+				<ul class="list-group">Horraires :
+					<li class="list-group-item"> Lundi 19h-1h </li>
+					<li class="list-group-item"> Mardi 19h-1h </li>	
+					<li class="list-group-item"> mercredi 19h-1h </li>
+					<li class="list-group-item"> Jeudi 19h-1h </li>
+					<li class="list-group-item"> Vendredi 19h-1h </li>
+					<li class="list-group-item"> Samedi 19h-3h </li>
+					<li class="list-group-item"> Dimanche 19h-3h </li>
+				</ul>
+				</div>
+				</div>
+				</div>
+		</center>
+	</body>
+
+
+
+
+		

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.google.com/shemas/sitemap/0.84">
+  <url>
+    <loc>http://localhost/HTML/Atelier%20pro/Histoire.php</loc>
+    <lastmod>2023-02-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost/HTML/Atelier%20pro/index.php</loc>
+    <lastmod>2023-02-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://localhost/HTML/Atelier%20pro/Conssomation.php</loc>
+    <lastmod>2023-02-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://localhost/HTML/Atelier%20pro/Formulaire.php</loc>
+    <lastmod>2023-02-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://localhost/HTML/Atelier%20pro/formu%20de%20notation.php</loc>
+    <lastmod>2023-02-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>

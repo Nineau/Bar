@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Histoire du bar </title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+		<link rel="stylesheet" href="style.css">
+	</head>
+	
+	</body>
+		
+		<center>
+		<div class="container">
+		<h1><div class="row" id="titre">Histoire du bar</div></h1>
+		
+		<br>
+		<center>
+		<div class"row" id="menue"><nav>
+			<ul>
+				<li><a href="file:///W:/Atelier%20Pro/code%20bar%20a%20th%C3%A8me.html"> Menue</a></li>
+				<li><a href="file:///W:/Atelier%20Pro/Cossomation.html#"> Notre cartes</a></li>
+				<li><a href="file:///W:/Atelier%20Pro/Inscription%20formulaire.html"> Nôtre Quizz</a></li>
+			</ul>
+		</nav>
+		</center>
+		<br>
+		</div>
+		<br>
+		<br>
+		<br>
+		<br>
+		<div class="row">
+		
+			
+				<div class="col-xs-12 col-md-6">
+				<div class"row" id"H">Le bar est née d’une idée d’un homme
+					qui en avait marre de tout les clichés sur le physique.
+					Il c’est donc dit qu’il aller crée un bar ou tout ces clichés
+					ne pourraient pas exister. Alors l’homme décida de crée un bar
+					très sombre et avec de la lumière seulement au endroit ou c’est
+					primordiaux (comptoirs ,toilettes et jeux de lumière sur la piste de 
+					dance) sinon tout le reste est sombre, ce projet a débuter le 06/09/2022. 
+					Pour se repérer et ne pas se faire se faire mal a l’entrée il faut se
+					mettre de la poudre lumineuse sur le corps ou les vêtements. Tout est
+					réfléchis pour faciliter les déplacement au sein du bar et évité de rentre
+					en collision avec une personne ou un objet par exemple les chaises sont peinte
+					d’une peinture fluorescente pour faciliter leurs repérage tout comme les tables,
+					les bouteilles et les verres.
+				</div>
+				</div>
+				<div class="col-xs-12 col-md-6">
+					<div class="row"> <img src="bar.rgb.jpg" class="img-thumbnail"> </div>
+			</div>
+			</div>
+			</div>
+	</body>
+</html>	
+					
+					
+					
+				
+			
+		
+	
+
+		
+</html>
